@@ -1,3 +1,4 @@
+// See https://aka.ms/new-console-template for more information
+//Usando LINUX com Extensão do .dotnet
 using System;
-
-Console.WriteLine("Usando c# e fé ");
+Console.WriteLine("Hello, World!");
