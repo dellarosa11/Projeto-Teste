@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matheusdellarosa/Área de trabalho/Projeto Acconcia/Projeto Acconcia.csproj",
+      "projectUniqueName": "/home/matheusdellarosa/Área de trabalho/projeto teste/Projeto-Teste/Projeto Acconcia.csproj",
       "projectName": "Projeto Acconcia",
-      "projectPath": "/home/matheusdellarosa/Área de trabalho/Projeto Acconcia/Projeto Acconcia.csproj",
+      "projectPath": "/home/matheusdellarosa/Área de trabalho/projeto teste/Projeto-Teste/Projeto Acconcia.csproj",
       "packagesPath": "/home/matheusdellarosa/.nuget/packages/",
-      "outputPath": "/home/matheusdellarosa/Área de trabalho/Projeto Acconcia/obj/",
+      "outputPath": "/home/matheusdellarosa/Área de trabalho/projeto teste/Projeto-Teste/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/matheusdellarosa/.nuget/NuGet/NuGet.Config"
